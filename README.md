@@ -50,4 +50,4 @@ Note that all figures' script make use of the results saved by the simulations.
 * The `DisplayCurrent.m` scripts can be used for quick checkups on unfinished runs. 
 * The main logic of the entropy maximization network is implemented in the `Infomax.m` class. The name "Infomax" was chosen to match the [original name](https://direct.mit.edu/neco/article/7/6/1129/5909/An-Information-Maximization-Approach-to-Blind) of the algorithm. 
 * For self-compltibility reasons, regularization coefficients are incorrectly termed as "ridge" throughout the code. We do not have the time to fix this. 
-* Due to the tight revisions schedule, fast results were generally prioritized over code quality. Thus the overall structure of the code is terrible. If you have the time, feel free to improve it and submit a pull request. 
+* Due to the tight revisions schedule, fast results were generally prioritized over code quality. Thus, the overall structure of the code is terrible. If you have the time, feel free to improve it and submit a pull request. 
