@@ -2,7 +2,7 @@
 
 This repository contains the code used in the paper Dotan A. and Shriki O., "Tinnitus-like "hallucinations" elicited by sensory deprivation in an entropy maximization recurrent neural network". _PLoS Computational Biology_. 
 
-## Directory tree structure
+## Project structure
 
 Each folder contains a full experiments set related to a single attenuation profile (see Fig. 2 in the paper). Within each folder, run `BatchSim.m` to run the simulations. Note that this will require a local `Results` folder to exist (if there isn't one, create an empty folder with that name within the attenuation profile's folder). 
 
