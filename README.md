@@ -1,6 +1,6 @@
 # Tinnitus-like "hallucinations" elicited by sensory deprivation in an entropy maximization recurrent neural network
 
-This repository contains the code used in the paper Dotan A. and Shriki O., "Tinnitus-like "hallucinations" elicited by sensory deprivation in an entropy maximization recurrent neural network". _PLoS Computational Biology_. 
+This repository contains the code used in the paper [Dotan A, Shriki O (2021) Tinnitus-like “hallucinations” elicited by sensory deprivation in an entropy maximization recurrent neural network. PLoS Comput Biol 17(12): e1008664. https://doi.org/10.1371/journal.pcbi.1008664](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008664). 
 
 ## Project structure
 
