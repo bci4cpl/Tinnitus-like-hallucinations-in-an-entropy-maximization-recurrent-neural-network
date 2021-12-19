@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Dotan"
+  given-names: "Aviv"
+  orcid: "https://orcid.org/0000-0003-4515-9333"
+- family-names: "Shriki"
+  given-names: "Oren"
+  orcid: "https://orcid.org/0000-0003-1129-4799"
+title: "Tinnitus-like “hallucinations” elicited by sensory deprivation in an entropy maximization recurrent neural network"
+date-released: 2021-12-08
+url: "https://github.com/bci4cpl/Tinnitus-like-hallucinations-in-an-entropy-maximization-recurrent-neural-network"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Dotan"
+    given-names: "Aviv"
+    orcid: "https://orcid.org/0000-0003-4515-9333"
+  - family-names: "Shriki"
+    given-names: "Oren"
+    orcid: "https://orcid.org/0000-0003-1129-4799"
+  doi: "10.1371/journal.pcbi.1008664"
+  journal: "PLOS Computational Biology"
+  month: 12
+  start: 1 # First page number
+  end: 23 # Last page number
+  title: "Tinnitus-like “hallucinations” elicited by sensory deprivation in an entropy maximization recurrent neural network"
+  issue: 12
+  volume: 17
+  year: 2021
+  publisher:
+    - name: "Public Library of Science"

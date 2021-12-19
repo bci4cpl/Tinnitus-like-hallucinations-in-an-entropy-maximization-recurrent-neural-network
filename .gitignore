@@ -6,16 +6,3 @@
 *.jpg
 *.eps
 *.pdf
-
-*.docx
-*.tex
-*.bib
-*.aux
-*.log
-*.out
-*.blg
-*.bbl
-*.synctex
-*.synctex(busy)
-*.synctex.gz
-*.synctex.gz(busy)
